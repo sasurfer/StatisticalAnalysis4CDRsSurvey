@@ -1,0 +1,12 @@
+CDR_name,free_paid,api_gui_both,aql_sql_both_other,JsonXml_FlatStruct_both_none,FHIR_openEHRExtract_both_none,Forms,openEHR GDL,openEHR REST API,openEHR Demographics
+ehrbase,free,api,aql,both,fhir,n,n,y,n
+better,paid,both,aql,both,fhir,y,y,y,n
+base24,paid,both,other,jsonxml,fhir,y,n,n,y
+cabo,free,gui,other,jsonxml,fhir,n,n,n,n
+arenaehr,paid,api,aql,both,fhir,y,y,y,n
+eweave,paid,gui,both,none,none,y,n,n,y
+ehrcare,paid,api,aql,both,none,y,n,n,y
+clever,paid,both,sql,flatstruct,extract,y,y,n,n
+ehrdb,paid,both,aql,both,extract,y,n,y,n
+rhp,paid,both,sql,flatstruct,none,y,y,n,y
+ehrn,paid,api,both,flatstruct,fhir,n,n,n,n

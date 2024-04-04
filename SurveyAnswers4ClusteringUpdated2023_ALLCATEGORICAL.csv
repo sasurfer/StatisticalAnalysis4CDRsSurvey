@@ -1,0 +1,12 @@
+CDR_name,rest_api,another_api,gui,comp_crud_api,ehr_cr_api,store_list_get_templates_api,store_list_exec_query_api,comp_crud_gui,ehr_cr_gui,store_list_get_templates_gui,store_list_exec_query_gui,comp_in_can_json,comp_ou_can_json,comp_in_can_xml,comp_ou_can_xml,comp_in_flat,comp_ou_flat,comp_in_struct,comp_ou_struct,temp_in_opt,temp_ou_opt,temp_in_webtemp,temp_ou_webtemp,openehr_extract,fhir_export,fhir_import,demographics_openehr,rest_api_openehr,gdl,form_creation,terminology_server,archetype_designer,template_designer,aql,sql
+ehrbase,y,y,y,y,y,y,y,n,n,n,n,y,y,y,y,y,y,y,y,y,y,n,y,n,y,y,n,y,n,n,y,n,n,y,n
+better,y,y,y,y,y,y,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,y,y,n,y,y,y,y,y,y,y,n
+base24,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,n,n,n,y,y,n,n,n,y,y,y,n,n,y,y,n,n,n,n
+cabo,y,y,y,y,y,all but store,y not store,only r,y,y,y,y,y,y,y,n,n,n,n,y,y,n,n,n,ext,ext,n,dev,n,n,n,n,n,n,n
+arenaehr,y,n,y,y,y,y,y,n,n,n,n,y,y,y,y,y,n,n,n,y,y,n,y,n,y,y,n,y,y,y,y,n,n,y,n
+eweave,n  ,n,y,n,n,n,n,y,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,y,y,n,y,y,y
+ehrcare,y,y,n,y,y,y,y not store,n,n,n,n,y,y,n,n,y,y,n,n,y,y,n,n,n,n,n,y,n,n,y,n,n,n,y,n
+clever,y,y,y,y,y,y,y,n,y,y,y,n,n,n,n,y,y,n,n,n,n,y,y,y,n,n,y,n,y,y,dev,y,y,n,y
+ehrdb,y,y,y,y,y,y,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y,n,n,y,n,n,n,y,n,y,n,y,y,y,n
+rhp,y,y,y,y,y,y,y,n,y,y,y,n,n,n,n,y,y,n,n,n,n,y,y,n,n,n,y,n,y,y,y,y,y,n,y
+ehrn,y,n,y,y,n,y,y,y,n,n,y,n,n,n,n,y,y,n,n,y,y,n,n,n,y,y,n,n,n,n,y,n,n,y,y
